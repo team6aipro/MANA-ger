@@ -1,0 +1,84 @@
+{
+ "_source": "Fichiers « Stores » publiés par les chaînes (loi sur la transparence des prix), relevés le 2026-11-01 avec scripts/tester_sources_prix.py. Liste PARTIELLE : lancez scripts/maj_magasins.py pour la liste complète.",
+ "date": "2026-11-01",
+ "magasins": [
+  {
+   "chaine": "shufersal",
+   "id": "42",
+   "nom": "שלי ירושלים- ניות",
+   "adresse": "בורלא 1 שכ.ניות"
+  },
+  {
+   "chaine": "shufersal",
+   "id": "5",
+   "nom": "שלי ירושלים- יובל",
+   "adresse": "אורוגאי 3"
+  },
+  {
+   "chaine": "shufersal",
+   "id": "2",
+   "nom": "שלי ירושלים- אגרון",
+   "adresse": "אגרון 1"
+  },
+  {
+   "chaine": "shufersal",
+   "id": "78",
+   "nom": "יש הר נוף ירושלים-שאולזו",
+   "adresse": "שאולזון 56"
+  },
+  {
+   "chaine": "shufersal",
+   "id": "21",
+   "nom": "יש מרים ירושלים-  פארן",
+   "adresse": "פארן 7 רמת אשכול"
+  },
+  {
+   "chaine": "rami_levy",
+   "id": "001",
+   "nom": "תלפיות",
+   "adresse": "האומן,15"
+  },
+  {
+   "chaine": "rami_levy",
+   "id": "002",
+   "nom": "בזק מחסני מזון",
+   "adresse": "יד חרוצים 18"
+  },
+  {
+   "chaine": "rami_levy",
+   "id": "003",
+   "nom": "רמות",
+   "adresse": "90 דרך החורש"
+  },
+  {
+   "chaine": "rami_levy",
+   "id": "005",
+   "nom": "רב מכר",
+   "adresse": "הפרסה 3"
+  },
+  {
+   "chaine": "rami_levy",
+   "id": "013",
+   "nom": "גבעת שאול",
+   "adresse": "בית הדפוס 13"
+  },
+  {
+   "chaine": "osher_ad",
+   "id": "003",
+   "nom": "גבעת שאול",
+   "adresse": "בית הדפוס 29"
+  },
+  {
+   "chaine": "osher_ad",
+   "id": "026",
+   "nom": "תלפיות",
+   "adresse": "פייר קניג 26 קניון הדר"
+  },
+  {
+   "chaine": "osher_ad",
+   "id": "028",
+   "nom": "שמגר",
+   "adresse": "שמגר 16"
+  }
+ ]
+}

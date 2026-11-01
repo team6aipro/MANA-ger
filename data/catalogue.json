@@ -1,0 +1,622 @@
+{
+ "_avertissement": "CATALOGUE D'ESSAI. Codes-barres FICTIFS. Noms hébreux à vérifier par un locuteur.",
+ "ingredients": [
+  {
+   "id": "tomate",
+   "nom_fr": "Tomate",
+   "nom_he": "עגבנייה",
+   "unite": "piece",
+   "vente": {
+    "type": "poids"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-001",
+    "rami_levy": "FICTIF-RL-001",
+    "osher_ad": "FICTIF-OA-001"
+   },
+   "poids_piece_g": 120,
+   "categorie": "Légumes",
+   "emoji": "🍅"
+  },
+  {
+   "id": "concombre",
+   "nom_fr": "Concombre",
+   "nom_he": "מלפפון",
+   "unite": "piece",
+   "vente": {
+    "type": "poids"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-002",
+    "rami_levy": "FICTIF-RL-002",
+    "osher_ad": "FICTIF-OA-002"
+   },
+   "poids_piece_g": 150,
+   "categorie": "Légumes",
+   "emoji": "🥒"
+  },
+  {
+   "id": "oignon",
+   "nom_fr": "Oignon",
+   "nom_he": "בצל",
+   "unite": "piece",
+   "vente": {
+    "type": "poids"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-003",
+    "rami_levy": "FICTIF-RL-003",
+    "osher_ad": "FICTIF-OA-003"
+   },
+   "poids_piece_g": 110,
+   "categorie": "Légumes",
+   "emoji": "🧅"
+  },
+  {
+   "id": "ail",
+   "nom_fr": "Ail",
+   "nom_he": "שום",
+   "unite": "g",
+   "vente": {
+    "type": "poids"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-004",
+    "rami_levy": "FICTIF-RL-004",
+    "osher_ad": "FICTIF-OA-004"
+   },
+   "categorie": "Légumes",
+   "emoji": "🧄"
+  },
+  {
+   "id": "poivron",
+   "nom_fr": "Poivron rouge",
+   "nom_he": "פלפל אדום",
+   "unite": "piece",
+   "vente": {
+    "type": "poids"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-005",
+    "rami_levy": "FICTIF-RL-005",
+    "osher_ad": "FICTIF-OA-005"
+   },
+   "poids_piece_g": 160,
+   "categorie": "Légumes",
+   "emoji": "🫑"
+  },
+  {
+   "id": "carotte",
+   "nom_fr": "Carotte",
+   "nom_he": "גזר",
+   "unite": "piece",
+   "vente": {
+    "type": "poids"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-006",
+    "rami_levy": "FICTIF-RL-006",
+    "osher_ad": "FICTIF-OA-006"
+   },
+   "poids_piece_g": 80,
+   "categorie": "Légumes",
+   "emoji": "🥕"
+  },
+  {
+   "id": "pomme_de_terre",
+   "nom_fr": "Pomme de terre",
+   "nom_he": "תפוח אדמה",
+   "unite": "piece",
+   "vente": {
+    "type": "poids"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-007",
+    "rami_levy": "FICTIF-RL-007",
+    "osher_ad": "FICTIF-OA-007"
+   },
+   "poids_piece_g": 170,
+   "categorie": "Légumes",
+   "emoji": "🥔"
+  },
+  {
+   "id": "courgette",
+   "nom_fr": "Courgette",
+   "nom_he": "קישוא",
+   "unite": "piece",
+   "vente": {
+    "type": "poids"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-008",
+    "rami_levy": "FICTIF-RL-008",
+    "osher_ad": "FICTIF-OA-008"
+   },
+   "poids_piece_g": 200,
+   "categorie": "Légumes",
+   "emoji": "🥒"
+  },
+  {
+   "id": "aubergine",
+   "nom_fr": "Aubergine",
+   "nom_he": "חציל",
+   "unite": "piece",
+   "vente": {
+    "type": "poids"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-009",
+    "rami_levy": "FICTIF-RL-009",
+    "osher_ad": "FICTIF-OA-009"
+   },
+   "poids_piece_g": 300,
+   "categorie": "Légumes",
+   "emoji": "🍆"
+  },
+  {
+   "id": "citron",
+   "nom_fr": "Citron",
+   "nom_he": "לימון",
+   "unite": "piece",
+   "vente": {
+    "type": "poids"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-010",
+    "rami_levy": "FICTIF-RL-010",
+    "osher_ad": "FICTIF-OA-010"
+   },
+   "poids_piece_g": 100,
+   "categorie": "Légumes",
+   "emoji": "🍋"
+  },
+  {
+   "id": "persil",
+   "nom_fr": "Persil (botte)",
+   "nom_he": "פטרוזיליה",
+   "unite": "piece",
+   "vente": {
+    "type": "paquet",
+    "contenu": 1,
+    "libelle": "botte"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-011",
+    "rami_levy": "FICTIF-RL-011",
+    "osher_ad": "FICTIF-OA-011"
+   },
+   "categorie": "Légumes",
+   "emoji": "🌿"
+  },
+  {
+   "id": "riz",
+   "nom_fr": "Riz",
+   "nom_he": "אורז",
+   "unite": "g",
+   "vente": {
+    "type": "paquet",
+    "contenu": 1000,
+    "libelle": "sac 1 kg"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-012",
+    "rami_levy": "FICTIF-RL-012",
+    "osher_ad": "FICTIF-OA-012"
+   },
+   "categorie": "Féculents",
+   "emoji": "🍚"
+  },
+  {
+   "id": "pates",
+   "nom_fr": "Pâtes",
+   "nom_he": "פסטה",
+   "unite": "g",
+   "vente": {
+    "type": "paquet",
+    "contenu": 500,
+    "libelle": "paquet 500 g"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": true,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-013",
+    "rami_levy": "FICTIF-RL-013",
+    "osher_ad": "FICTIF-OA-013"
+   },
+   "categorie": "Féculents",
+   "emoji": "🍝"
+  },
+  {
+   "id": "boulgour",
+   "nom_fr": "Boulgour",
+   "nom_he": "בורגול",
+   "unite": "g",
+   "vente": {
+    "type": "paquet",
+    "contenu": 500,
+    "libelle": "paquet 500 g"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": true,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-014",
+    "rami_levy": "FICTIF-RL-014",
+    "osher_ad": "FICTIF-OA-014"
+   },
+   "categorie": "Féculents",
+   "emoji": "🌾"
+  },
+  {
+   "id": "lentilles_corail",
+   "nom_fr": "Lentilles corail",
+   "nom_he": "עדשים כתומות",
+   "unite": "g",
+   "vente": {
+    "type": "paquet",
+    "contenu": 500,
+    "libelle": "paquet 500 g"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-015",
+    "rami_levy": "FICTIF-RL-015",
+    "osher_ad": "FICTIF-OA-015"
+   },
+   "categorie": "Féculents",
+   "emoji": "🫘"
+  },
+  {
+   "id": "pois_chiches",
+   "nom_fr": "Pois chiches (conserve)",
+   "nom_he": "גרגרי חומוס משומרים",
+   "unite": "g",
+   "vente": {
+    "type": "paquet",
+    "contenu": 400,
+    "libelle": "boîte 400 g"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-016",
+    "rami_levy": "FICTIF-RL-016",
+    "osher_ad": "FICTIF-OA-016"
+   },
+   "categorie": "Féculents",
+   "emoji": "🫘"
+  },
+  {
+   "id": "pita",
+   "nom_fr": "Pita",
+   "nom_he": "פיתה",
+   "unite": "piece",
+   "vente": {
+    "type": "paquet",
+    "contenu": 10,
+    "libelle": "sachet de 10"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": true,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-017",
+    "rami_levy": "FICTIF-RL-017",
+    "osher_ad": "FICTIF-OA-017"
+   },
+   "categorie": "Féculents",
+   "emoji": "🫓"
+  },
+  {
+   "id": "oeufs",
+   "nom_fr": "Œufs",
+   "nom_he": "ביצים",
+   "unite": "piece",
+   "vente": {
+    "type": "paquet",
+    "contenu": 12,
+    "libelle": "boîte de 12"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-018",
+    "rami_levy": "FICTIF-RL-018",
+    "osher_ad": "FICTIF-OA-018"
+   },
+   "categorie": "Œufs & laitages",
+   "emoji": "🥚"
+  },
+  {
+   "id": "lait",
+   "nom_fr": "Lait",
+   "nom_he": "חלב",
+   "unite": "ml",
+   "vente": {
+    "type": "paquet",
+    "contenu": 1000,
+    "libelle": "brique 1 L"
+   },
+   "cacherout": "halavi",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-019",
+    "rami_levy": "FICTIF-RL-019",
+    "osher_ad": "FICTIF-OA-019"
+   },
+   "categorie": "Œufs & laitages",
+   "emoji": "🥛"
+  },
+  {
+   "id": "fromage_blanc",
+   "nom_fr": "Fromage blanc 5 %",
+   "nom_he": "גבינה לבנה",
+   "unite": "g",
+   "vente": {
+    "type": "paquet",
+    "contenu": 250,
+    "libelle": "pot 250 g"
+   },
+   "cacherout": "halavi",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-020",
+    "rami_levy": "FICTIF-RL-020",
+    "osher_ad": "FICTIF-OA-020"
+   },
+   "categorie": "Œufs & laitages",
+   "emoji": "🧀"
+  },
+  {
+   "id": "fromage_rape",
+   "nom_fr": "Fromage jaune râpé",
+   "nom_he": "גבינה צהובה מגוררת",
+   "unite": "g",
+   "vente": {
+    "type": "paquet",
+    "contenu": 200,
+    "libelle": "sachet 200 g"
+   },
+   "cacherout": "halavi",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-021",
+    "rami_levy": "FICTIF-RL-021",
+    "osher_ad": "FICTIF-OA-021"
+   },
+   "categorie": "Œufs & laitages",
+   "emoji": "🧀"
+  },
+  {
+   "id": "feta",
+   "nom_fr": "Fromage bulgare (type feta)",
+   "nom_he": "גבינה בולגרית",
+   "unite": "g",
+   "vente": {
+    "type": "paquet",
+    "contenu": 250,
+    "libelle": "barquette 250 g"
+   },
+   "cacherout": "halavi",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-022",
+    "rami_levy": "FICTIF-RL-022",
+    "osher_ad": "FICTIF-OA-022"
+   },
+   "categorie": "Œufs & laitages",
+   "emoji": "🧀"
+  },
+  {
+   "id": "yaourt",
+   "nom_fr": "Yaourt nature",
+   "nom_he": "יוגורט",
+   "unite": "g",
+   "vente": {
+    "type": "paquet",
+    "contenu": 200,
+    "libelle": "pot 200 g"
+   },
+   "cacherout": "halavi",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-023",
+    "rami_levy": "FICTIF-RL-023",
+    "osher_ad": "FICTIF-OA-023"
+   },
+   "categorie": "Œufs & laitages",
+   "emoji": "🥣"
+  },
+  {
+   "id": "poulet",
+   "nom_fr": "Blanc de poulet",
+   "nom_he": "חזה עוף",
+   "unite": "g",
+   "vente": {
+    "type": "poids"
+   },
+   "cacherout": "bassari",
+   "vegetarien": false,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-024",
+    "rami_levy": "FICTIF-RL-024",
+    "osher_ad": "FICTIF-OA-024"
+   },
+   "categorie": "Viande & poisson",
+   "emoji": "🍗"
+  },
+  {
+   "id": "boeuf_hache",
+   "nom_fr": "Bœuf haché",
+   "nom_he": "בשר בקר טחון",
+   "unite": "g",
+   "vente": {
+    "type": "paquet",
+    "contenu": 500,
+    "libelle": "barquette 500 g"
+   },
+   "cacherout": "bassari",
+   "vegetarien": false,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-025",
+    "rami_levy": "FICTIF-RL-025",
+    "osher_ad": "FICTIF-OA-025"
+   },
+   "categorie": "Viande & poisson",
+   "emoji": "🥩"
+  },
+  {
+   "id": "thon",
+   "nom_fr": "Thon (conserve)",
+   "nom_he": "טונה",
+   "unite": "g",
+   "vente": {
+    "type": "paquet",
+    "contenu": 160,
+    "libelle": "boîte 160 g"
+   },
+   "cacherout": "parve",
+   "vegetarien": false,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-026",
+    "rami_levy": "FICTIF-RL-026",
+    "osher_ad": "FICTIF-OA-026"
+   },
+   "categorie": "Viande & poisson",
+   "emoji": "🐟"
+  },
+  {
+   "id": "tahini",
+   "nom_fr": "Tahini",
+   "nom_he": "טחינה גולמית",
+   "unite": "g",
+   "vente": {
+    "type": "paquet",
+    "contenu": 500,
+    "libelle": "pot 500 g"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-027",
+    "rami_levy": "FICTIF-RL-027",
+    "osher_ad": "FICTIF-OA-027"
+   },
+   "categorie": "Épicerie",
+   "emoji": "🥜"
+  },
+  {
+   "id": "huile_olive",
+   "nom_fr": "Huile d'olive",
+   "nom_he": "שמן זית",
+   "unite": "ml",
+   "vente": {
+    "type": "paquet",
+    "contenu": 750,
+    "libelle": "bouteille 750 ml"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-028",
+    "rami_levy": "FICTIF-RL-028",
+    "osher_ad": "FICTIF-OA-028"
+   },
+   "categorie": "Épicerie",
+   "emoji": "🫒"
+  },
+  {
+   "id": "sauce_tomate",
+   "nom_fr": "Sauce tomate",
+   "nom_he": "רוטב עגבניות",
+   "unite": "g",
+   "vente": {
+    "type": "paquet",
+    "contenu": 400,
+    "libelle": "boîte 400 g"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-029",
+    "rami_levy": "FICTIF-RL-029",
+    "osher_ad": "FICTIF-OA-029"
+   },
+   "categorie": "Épicerie",
+   "emoji": "🥫"
+  },
+  {
+   "id": "epices",
+   "nom_fr": "Mélange d'épices",
+   "nom_he": "תערובת תבלינים",
+   "unite": "g",
+   "vente": {
+    "type": "paquet",
+    "contenu": 100,
+    "libelle": "sachet 100 g"
+   },
+   "cacherout": "parve",
+   "vegetarien": true,
+   "gluten": false,
+   "codes_barres": {
+    "shufersal": "FICTIF-SH-030",
+    "rami_levy": "FICTIF-RL-030",
+    "osher_ad": "FICTIF-OA-030"
+   },
+   "categorie": "Épicerie",
+   "emoji": "🧂"
+  }
+ ]
+}

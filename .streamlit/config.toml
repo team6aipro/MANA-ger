@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+primaryColor = "#C2562F"          # terre cuite
+backgroundColor = "#FBF7F0"       # pierre de Jérusalem
+secondaryBackgroundColor = "#F1E9DC"
+textColor = "#2B2622"
+borderColor = "#EADFD0"
+# Police Rubik (Google Fonts) : lisible, gère le français ET l'hébreu.
+font = "Rubik:https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700;800&display=swap"
+headingFont = "Rubik"
+baseRadius = "12px"
+buttonRadius = "12px"
+showWidgetBorder = true
+
+[client]
+toolbarMode = "minimal"

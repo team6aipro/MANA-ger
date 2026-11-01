@@ -1,0 +1,706 @@
+{
+ "_note": "Quantités PAR PERSONNE, dans l'unité du catalogue (g, ml ou pièce). Temps en minutes. Sel, poivre et eau du robinet sont considérés comme déjà à la maison (non comptés).",
+ "recettes": [
+  {
+   "id": "shakshuka",
+   "nom": "Chakchouka",
+   "description": "Œufs pochés dans une sauce tomates-poivrons.",
+   "ingredients": [
+    {
+     "id": "tomate",
+     "quantite": 2
+    },
+    {
+     "id": "oignon",
+     "quantite": 0.5
+    },
+    {
+     "id": "poivron",
+     "quantite": 0.5
+    },
+    {
+     "id": "ail",
+     "quantite": 5
+    },
+    {
+     "id": "oeufs",
+     "quantite": 2
+    },
+    {
+     "id": "huile_olive",
+     "quantite": 10
+    },
+    {
+     "id": "epices",
+     "quantite": 3
+    },
+    {
+     "id": "pita",
+     "quantite": 1
+    }
+   ],
+   "etapes": [
+    "Émincez l'oignon, coupez le poivron en lanières et écrasez l'ail.",
+    "Faites chauffer l'huile dans une grande poêle, puis faites revenir oignon et poivron 5 min à feu moyen.",
+    "Ajoutez l'ail, les tomates coupées en dés et les épices. Laissez mijoter 8 min jusqu'à obtenir une sauce épaisse.",
+    "Creusez des petits puits dans la sauce et cassez-y les œufs.",
+    "Couvrez et laissez cuire 5 à 7 min à feu doux : le blanc doit être pris, le jaune encore coulant.",
+    "Réchauffez la pita quelques secondes à la poêle et servez aussitôt."
+   ],
+   "source": "base",
+   "emoji": "🍳",
+   "minutes": 25,
+   "preparation": 10,
+   "cuisson": 15,
+   "astuce": "Servez directement dans la poêle, avec la pita pour saucer."
+  },
+  {
+   "id": "pates_tomate_fromage",
+   "nom": "Pâtes à la tomate gratinées",
+   "description": "Pâtes, sauce tomate maison et fromage râpé.",
+   "ingredients": [
+    {
+     "id": "pates",
+     "quantite": 120
+    },
+    {
+     "id": "sauce_tomate",
+     "quantite": 80
+    },
+    {
+     "id": "oignon",
+     "quantite": 0.5
+    },
+    {
+     "id": "ail",
+     "quantite": 5
+    },
+    {
+     "id": "fromage_rape",
+     "quantite": 30
+    },
+    {
+     "id": "huile_olive",
+     "quantite": 10
+    }
+   ],
+   "etapes": [
+    "Portez une grande casserole d'eau salée à ébullition.",
+    "Pendant ce temps, émincez l'oignon et l'ail, puis faites-les revenir 4 min dans l'huile.",
+    "Ajoutez la sauce tomate et laissez mijoter 8 min à feu doux.",
+    "Faites cuire les pâtes selon le temps indiqué sur le paquet, puis égouttez-les.",
+    "Mélangez pâtes et sauce, parsemez de fromage râpé et laissez fondre 1 min, couvert."
+   ],
+   "source": "base",
+   "emoji": "🍝",
+   "minutes": 20,
+   "preparation": 5,
+   "cuisson": 15,
+   "astuce": "Gardez un peu d'eau de cuisson : elle rend la sauce plus onctueuse."
+  },
+  {
+   "id": "mujadara",
+   "nom": "Riz aux lentilles et oignons frits",
+   "description": "Plat complet très économique.",
+   "ingredients": [
+    {
+     "id": "lentilles_corail",
+     "quantite": 70
+    },
+    {
+     "id": "riz",
+     "quantite": 70
+    },
+    {
+     "id": "oignon",
+     "quantite": 1
+    },
+    {
+     "id": "huile_olive",
+     "quantite": 15
+    },
+    {
+     "id": "epices",
+     "quantite": 3
+    }
+   ],
+   "etapes": [
+    "Rincez le riz et les lentilles à l'eau froide.",
+    "Mettez-les dans une casserole avec 2,5 fois leur volume d'eau et les épices. Portez à ébullition.",
+    "Couvrez et laissez cuire 20 min à feu très doux, sans remuer.",
+    "Pendant ce temps, émincez finement les oignons et faites-les dorer 15 min dans l'huile en remuant souvent.",
+    "Servez le riz-lentilles recouvert des oignons dorés."
+   ],
+   "source": "base",
+   "emoji": "🍛",
+   "minutes": 35,
+   "preparation": 10,
+   "cuisson": 25,
+   "astuce": "Les oignons doivent être bien dorés, presque caramélisés : c'est tout le goût du plat."
+  },
+  {
+   "id": "poulet_pommes_de_terre",
+   "nom": "Poulet rôti et pommes de terre",
+   "description": "Au four, avec citron et épices.",
+   "ingredients": [
+    {
+     "id": "poulet",
+     "quantite": 200
+    },
+    {
+     "id": "pomme_de_terre",
+     "quantite": 2
+    },
+    {
+     "id": "oignon",
+     "quantite": 0.5
+    },
+    {
+     "id": "huile_olive",
+     "quantite": 10
+    },
+    {
+     "id": "epices",
+     "quantite": 3
+    },
+    {
+     "id": "citron",
+     "quantite": 0.5
+    }
+   ],
+   "etapes": [
+    "Préchauffez le four à 200 °C.",
+    "Coupez les pommes de terre en quartiers et l'oignon en lamelles.",
+    "Dans un plat, mélangez-les avec l'huile, les épices et le jus du citron.",
+    "Posez le poulet par-dessus et arrosez-le du jus du plat.",
+    "Enfournez 40 min : le poulet doit être bien cuit à cœur et les pommes de terre dorées."
+   ],
+   "source": "base",
+   "emoji": "🍗",
+   "minutes": 50,
+   "preparation": 10,
+   "cuisson": 40,
+   "astuce": "Retournez les pommes de terre à mi-cuisson pour qu'elles dorent des deux côtés."
+  },
+  {
+   "id": "taboule_pois_chiches",
+   "nom": "Taboulé aux pois chiches",
+   "description": "Salade fraîche et rassasiante.",
+   "ingredients": [
+    {
+     "id": "boulgour",
+     "quantite": 70
+    },
+    {
+     "id": "tomate",
+     "quantite": 1
+    },
+    {
+     "id": "concombre",
+     "quantite": 1
+    },
+    {
+     "id": "persil",
+     "quantite": 0.5
+    },
+    {
+     "id": "citron",
+     "quantite": 0.5
+    },
+    {
+     "id": "huile_olive",
+     "quantite": 10
+    },
+    {
+     "id": "pois_chiches",
+     "quantite": 80
+    }
+   ],
+   "etapes": [
+    "Versez le boulgour dans un saladier, couvrez d'eau bouillante et laissez gonfler 15 min.",
+    "Pendant ce temps, coupez la tomate et le concombre en petits dés et ciselez le persil.",
+    "Égouttez les pois chiches.",
+    "Égrainez le boulgour à la fourchette, puis ajoutez légumes, persil et pois chiches.",
+    "Assaisonnez avec le jus de citron et l'huile d'olive, puis mélangez bien."
+   ],
+   "source": "base",
+   "emoji": "🥗",
+   "minutes": 20,
+   "preparation": 20,
+   "cuisson": 0,
+   "astuce": "Encore meilleur après 30 min au frais : préparez-le à l'avance."
+  },
+  {
+   "id": "houmous_pita",
+   "nom": "Houmous maison et pitas",
+   "description": "Houmous mixé au tahini, servi tiède.",
+   "ingredients": [
+    {
+     "id": "pois_chiches",
+     "quantite": 150
+    },
+    {
+     "id": "tahini",
+     "quantite": 30
+    },
+    {
+     "id": "citron",
+     "quantite": 0.5
+    },
+    {
+     "id": "ail",
+     "quantite": 5
+    },
+    {
+     "id": "pita",
+     "quantite": 2
+    },
+    {
+     "id": "huile_olive",
+     "quantite": 10
+    }
+   ],
+   "etapes": [
+    "Égouttez et rincez les pois chiches. Gardez-en quelques-uns pour la décoration.",
+    "Mixez les pois chiches avec le tahini, le jus de citron et l'ail.",
+    "Ajoutez 3 à 5 cuillères d'eau froide en mixant, jusqu'à obtenir une crème lisse.",
+    "Étalez dans une assiette en creusant un sillon, versez l'huile et ajoutez les pois chiches réservés.",
+    "Servez avec les pitas réchauffées."
+   ],
+   "source": "base",
+   "emoji": "🧆",
+   "minutes": 10,
+   "preparation": 10,
+   "cuisson": 0,
+   "astuce": "Ajoutez l'eau petit à petit pour un houmous bien lisse."
+  },
+  {
+   "id": "boulettes_boeuf",
+   "nom": "Boulettes de bœuf sauce tomate",
+   "description": "Avec du riz.",
+   "ingredients": [
+    {
+     "id": "boeuf_hache",
+     "quantite": 150
+    },
+    {
+     "id": "sauce_tomate",
+     "quantite": 80
+    },
+    {
+     "id": "oignon",
+     "quantite": 0.5
+    },
+    {
+     "id": "riz",
+     "quantite": 70
+    },
+    {
+     "id": "epices",
+     "quantite": 3
+    },
+    {
+     "id": "oeufs",
+     "quantite": 0.5
+    }
+   ],
+   "etapes": [
+    "Faites cuire le riz : 1 volume de riz pour 1,5 volume d'eau, 15 min à couvert.",
+    "Râpez l'oignon et mélangez-le avec la viande, l'œuf battu et les épices.",
+    "Formez des boulettes de la taille d'une noix.",
+    "Faites chauffer la sauce tomate dans une sauteuse et plongez-y les boulettes.",
+    "Couvrez et laissez mijoter 20 min en les retournant à mi-cuisson.",
+    "Servez les boulettes et leur sauce sur le riz."
+   ],
+   "source": "base",
+   "emoji": "🍖",
+   "minutes": 40,
+   "preparation": 15,
+   "cuisson": 25,
+   "astuce": "Mouillez-vous les mains pour former les boulettes sans qu'elles collent."
+  },
+  {
+   "id": "omelette_courgettes",
+   "nom": "Omelette aux courgettes et salade",
+   "description": "Rapide, sans gluten.",
+   "ingredients": [
+    {
+     "id": "oeufs",
+     "quantite": 2
+    },
+    {
+     "id": "courgette",
+     "quantite": 1
+    },
+    {
+     "id": "oignon",
+     "quantite": 0.5
+    },
+    {
+     "id": "huile_olive",
+     "quantite": 10
+    },
+    {
+     "id": "tomate",
+     "quantite": 1
+    },
+    {
+     "id": "concombre",
+     "quantite": 1
+    }
+   ],
+   "etapes": [
+    "Coupez la courgette en fines rondelles et émincez l'oignon.",
+    "Faites-les revenir 5 min dans l'huile, à feu moyen.",
+    "Battez les œufs et versez-les sur les légumes.",
+    "Laissez cuire 4 à 5 min à feu doux, couvert.",
+    "Pendant la cuisson, coupez tomate et concombre en dés pour la salade d'accompagnement."
+   ],
+   "source": "base",
+   "emoji": "🍳",
+   "minutes": 15,
+   "preparation": 5,
+   "cuisson": 10,
+   "astuce": "Cuisez à feu doux : l'omelette reste moelleuse."
+  },
+  {
+   "id": "aubergine_tahini_boulgour",
+   "nom": "Aubergine rôtie au tahini",
+   "description": "Avec du boulgour.",
+   "ingredients": [
+    {
+     "id": "aubergine",
+     "quantite": 1
+    },
+    {
+     "id": "tahini",
+     "quantite": 30
+    },
+    {
+     "id": "citron",
+     "quantite": 0.5
+    },
+    {
+     "id": "ail",
+     "quantite": 5
+    },
+    {
+     "id": "boulgour",
+     "quantite": 70
+    }
+   ],
+   "etapes": [
+    "Préchauffez le four à 220 °C.",
+    "Coupez l'aubergine en deux dans la longueur et quadrillez la chair au couteau.",
+    "Faites-la rôtir 35 min, face coupée vers le haut, jusqu'à ce qu'elle soit fondante.",
+    "Pendant ce temps, faites cuire le boulgour : 2 volumes d'eau pour 1 volume, 12 min.",
+    "Préparez la sauce : tahini, jus de citron, ail écrasé et un peu d'eau.",
+    "Servez l'aubergine sur le boulgour, nappée de sauce."
+   ],
+   "source": "base",
+   "emoji": "🍆",
+   "minutes": 45,
+   "preparation": 10,
+   "cuisson": 35,
+   "astuce": "Quadrillez la chair de l'aubergine au couteau pour qu'elle cuise plus vite."
+  },
+  {
+   "id": "gratin_pommes_de_terre",
+   "nom": "Gratin de pommes de terre",
+   "description": "Lait et fromage râpé.",
+   "ingredients": [
+    {
+     "id": "pomme_de_terre",
+     "quantite": 2
+    },
+    {
+     "id": "lait",
+     "quantite": 100
+    },
+    {
+     "id": "fromage_rape",
+     "quantite": 40
+    },
+    {
+     "id": "oignon",
+     "quantite": 0.5
+    },
+    {
+     "id": "huile_olive",
+     "quantite": 5
+    }
+   ],
+   "etapes": [
+    "Préchauffez le four à 190 °C et huilez un plat.",
+    "Épluchez les pommes de terre et coupez-les en rondelles très fines.",
+    "Disposez-les en couches avec l'oignon émincé.",
+    "Versez le lait, qui doit arriver presque en haut des pommes de terre.",
+    "Couvrez de fromage râpé et enfournez 45 min, jusqu'à ce que le dessus soit doré."
+   ],
+   "source": "base",
+   "emoji": "🥔",
+   "minutes": 60,
+   "preparation": 15,
+   "cuisson": 45,
+   "astuce": "Des rondelles fines et régulières cuisent de façon égale."
+  },
+  {
+   "id": "pates_thon",
+   "nom": "Pâtes au thon",
+   "description": "Sauce tomate et thon.",
+   "ingredients": [
+    {
+     "id": "pates",
+     "quantite": 120
+    },
+    {
+     "id": "thon",
+     "quantite": 80
+    },
+    {
+     "id": "sauce_tomate",
+     "quantite": 60
+    },
+    {
+     "id": "ail",
+     "quantite": 5
+    },
+    {
+     "id": "huile_olive",
+     "quantite": 10
+    }
+   ],
+   "etapes": [
+    "Faites cuire les pâtes dans une grande casserole d'eau salée.",
+    "Pendant ce temps, faites revenir l'ail dans l'huile 1 min.",
+    "Ajoutez la sauce tomate et laissez chauffer 5 min.",
+    "Égouttez le thon, émiettez-le et ajoutez-le à la sauce.",
+    "Mélangez avec les pâtes égouttées et servez."
+   ],
+   "source": "base",
+   "emoji": "🍝",
+   "minutes": 17,
+   "preparation": 5,
+   "cuisson": 12,
+   "astuce": "Ajoutez le thon à la fin pour qu'il ne se dessèche pas."
+  },
+  {
+   "id": "salade_feta_pita",
+   "nom": "Salade au fromage bulgare",
+   "description": "Avec pita.",
+   "ingredients": [
+    {
+     "id": "tomate",
+     "quantite": 1
+    },
+    {
+     "id": "concombre",
+     "quantite": 1
+    },
+    {
+     "id": "poivron",
+     "quantite": 0.5
+    },
+    {
+     "id": "feta",
+     "quantite": 60
+    },
+    {
+     "id": "huile_olive",
+     "quantite": 10
+    },
+    {
+     "id": "pita",
+     "quantite": 1
+    }
+   ],
+   "etapes": [
+    "Coupez la tomate, le concombre et le poivron en dés.",
+    "Émiettez le fromage bulgare par-dessus.",
+    "Arrosez d'huile d'olive et mélangez délicatement.",
+    "Servez avec la pita, réchauffée ou coupée en triangles grillés."
+   ],
+   "source": "base",
+   "emoji": "🥗",
+   "minutes": 10,
+   "preparation": 10,
+   "cuisson": 0,
+   "astuce": "Coupez tous les légumes de la même taille pour une jolie salade."
+  },
+  {
+   "id": "soupe_lentilles",
+   "nom": "Soupe de lentilles et carottes",
+   "description": "Réconfortante, sans gluten.",
+   "ingredients": [
+    {
+     "id": "lentilles_corail",
+     "quantite": 80
+    },
+    {
+     "id": "carotte",
+     "quantite": 2
+    },
+    {
+     "id": "oignon",
+     "quantite": 1
+    },
+    {
+     "id": "ail",
+     "quantite": 5
+    },
+    {
+     "id": "epices",
+     "quantite": 3
+    },
+    {
+     "id": "huile_olive",
+     "quantite": 10
+    },
+    {
+     "id": "citron",
+     "quantite": 0.5
+    }
+   ],
+   "etapes": [
+    "Émincez l'oignon, écrasez l'ail et coupez les carottes en rondelles.",
+    "Faites-les revenir 5 min dans l'huile, dans une grande casserole.",
+    "Ajoutez les lentilles rincées, les épices et 4 fois leur volume d'eau.",
+    "Laissez cuire 20 min à feu moyen : les lentilles doivent être fondantes.",
+    "Mixez, puis ajoutez le jus de citron juste avant de servir."
+   ],
+   "source": "base",
+   "emoji": "🍲",
+   "minutes": 35,
+   "preparation": 10,
+   "cuisson": 25,
+   "astuce": "Mixez plus ou moins longtemps selon la texture que vous aimez."
+  },
+  {
+   "id": "poulet_riz_poivrons",
+   "nom": "Poulet sauté aux poivrons",
+   "description": "Avec du riz.",
+   "ingredients": [
+    {
+     "id": "poulet",
+     "quantite": 150
+    },
+    {
+     "id": "riz",
+     "quantite": 80
+    },
+    {
+     "id": "poivron",
+     "quantite": 1
+    },
+    {
+     "id": "oignon",
+     "quantite": 0.5
+    },
+    {
+     "id": "ail",
+     "quantite": 5
+    },
+    {
+     "id": "huile_olive",
+     "quantite": 10
+    }
+   ],
+   "etapes": [
+    "Faites cuire le riz : 1 volume pour 1,5 volume d'eau, 15 min à couvert.",
+    "Coupez le poulet en lamelles, le poivron en bandes, et émincez oignon et ail.",
+    "Saisissez le poulet 5 min à feu vif dans l'huile, puis réservez-le.",
+    "Faites sauter poivron, oignon et ail 5 min dans la même poêle.",
+    "Remettez le poulet 2 min pour réchauffer, puis servez avec le riz."
+   ],
+   "source": "base",
+   "emoji": "🍗",
+   "minutes": 30,
+   "preparation": 10,
+   "cuisson": 20,
+   "astuce": "Saisissez le poulet à feu vif pour qu'il reste tendre."
+  },
+  {
+   "id": "pita_fromage_blanc",
+   "nom": "Pita au fromage blanc et crudités",
+   "description": "Dîner léger sans cuisson.",
+   "ingredients": [
+    {
+     "id": "pita",
+     "quantite": 2
+    },
+    {
+     "id": "fromage_blanc",
+     "quantite": 100
+    },
+    {
+     "id": "tomate",
+     "quantite": 1
+    },
+    {
+     "id": "concombre",
+     "quantite": 1
+    },
+    {
+     "id": "yaourt",
+     "quantite": 100
+    }
+   ],
+   "etapes": [
+    "Coupez la tomate et le concombre en fines lamelles.",
+    "Ouvrez les pitas en poche.",
+    "Tartinez l'intérieur de fromage blanc et garnissez de légumes.",
+    "Servez avec le yaourt nature à côté."
+   ],
+   "source": "base",
+   "emoji": "🥙",
+   "minutes": 5,
+   "preparation": 5,
+   "cuisson": 0,
+   "astuce": "Idéal les soirs pressés : aucune cuisson."
+  },
+  {
+   "id": "riz_saute_legumes",
+   "nom": "Riz sauté aux légumes et à l'œuf",
+   "description": "Façon wok.",
+   "ingredients": [
+    {
+     "id": "riz",
+     "quantite": 80
+    },
+    {
+     "id": "carotte",
+     "quantite": 1
+    },
+    {
+     "id": "courgette",
+     "quantite": 0.5
+    },
+    {
+     "id": "oeufs",
+     "quantite": 1
+    },
+    {
+     "id": "huile_olive",
+     "quantite": 10
+    },
+    {
+     "id": "oignon",
+     "quantite": 0.5
+    }
+   ],
+   "etapes": [
+    "Si le riz n'est pas déjà cuit, faites-le cuire puis laissez-le refroidir.",
+    "Coupez la carotte et la courgette en petits dés et émincez l'oignon.",
+    "Faites sauter les légumes 5 min à feu vif dans l'huile.",
+    "Ajoutez le riz et faites-le sauter 3 min en remuant.",
+    "Poussez le riz sur le côté, versez l'œuf battu, brouillez-le puis mélangez le tout."
+   ],
+   "source": "base",
+   "emoji": "🍚",
+   "minutes": 25,
+   "preparation": 10,
+   "cuisson": 15,
+   "astuce": "Le riz cuit la veille et refroidi donne le meilleur résultat."
+  }
+ ]
+}

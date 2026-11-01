@@ -1,0 +1,16 @@
+# --- SECRETS : ne jamais publier sur GitHub ---
+.streamlit/secrets.toml
+.env
+*.key
+
+# Base de données locale et cache des prix
+*.db
+*.sqlite3
+cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
